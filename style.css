@@ -1,6 +1,12 @@
-.header imig{
+body {
+    z-index: 2;
+    position: absolute;
+}
+
+
+#header imig{
 
     position: absolute;
     z-index: -1;
-    size: fill;
+    
 }
